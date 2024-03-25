@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, eu sou <strong>João</strong> bem-vindo ao meu perfil.
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1jZnSjZs55ZXQz0ZRej5Z5BplMUvXqAJDnQ&usqp=CAU
-
+![imagem](https://gifdb.com/images/high/8-bit-doge-meme-praying-sm4jsb802uui299s.gif)
+  
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=SEU-LINKEDIN-AQUI)](SEU-LINKEDIN-AQUI)
