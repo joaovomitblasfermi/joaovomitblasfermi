@@ -1,7 +1,6 @@
 <h1 align="center"> Olá, eu sou <strong>João</strong> bem-vindo ao meu perfil.
-![imagem](https://gifdb.com/images/high/8-bit-doge-meme-praying-sm4jsb802uui299s.gif)
-  
 <div align="center">
+
   
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=SEU-LINKEDIN-AQUI)](SEU-LINKEDIN-AQUI)
 [![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=SUA-ROCKETSEAT-AQUI)](SUA-ROCKETSEAT-AQUI)
@@ -11,14 +10,17 @@
 
 </div>
 
+
+![imagem](https://gifdb.com/images/high/8-bit-doge-meme-praying-sm4jsb802uui299s.gif)
+  
 <hr>
 
 <h3 align="center"><strong>Back-End || Front-End || FullStack </strong> Developer 💻</h3>
 
 <p align="center">
-  <strong>Sua faculdade/período de um curso (No último período de ADS da faculdade X) </strong><br>
-  <strong>O que você vem estudando (Kotlin, Mongo, ...)</strong>📚<br>
-  <strong>Seus conhecimentos (Git/Github, Java, OO, ...)</strong>🚀<br>
+  <strong>Senac/2 meses  </strong><br>
+  <strong>github </strong>📚<br>
+  <strong>cozinhar🥘</strong>🚀<br>
 </p>
 
 <div align="center">
