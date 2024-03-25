@@ -1,5 +1,5 @@
-<h1 align="center"> Olá, eu sou <joão>Seu nome</joão> bem-vindo ao meu perfil.
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center"> Olá, eu sou <strong>Seu nome</João> bem-vindo ao meu perfil.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1jZnSjZs55ZXQz0ZRej5Z5BplMUvXqAJDnQ&usqp=CAU
 
 <div align="center">
   
