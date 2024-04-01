@@ -32,6 +32,6 @@
 =======
 >>>>>>> a4a2cab57174f77be8802b734726a13df5e1bab1
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duduxs&layout=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovomitblasfermi=compact&theme=dark)](https://github.com/felipecastrosales/github-readme-stats)
 
   </div>
