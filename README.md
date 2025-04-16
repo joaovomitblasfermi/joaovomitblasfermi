@@ -18,9 +18,9 @@
 <h3 align="center"><strong>Back-End || Front-End || FullStack </strong> Developer 💻</h3>
 
 <p align="center">
-  <strong>Senac/2 meses  </strong><br>
+  <strong>Senac/1 ano  </strong><br>
   <strong>github </strong>📚<br>
-  <strong>cozinhar🥘</strong>🚀<br>
+  <strong>Programa nas Horas Livres🥘</strong>🚀<br>
 </p>
 
 <div align="center">
